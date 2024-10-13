@@ -2,10 +2,6 @@
 
 This is the ZMK configuration for the Nice!Nano Lily58 Wireless keyboard from [Typeractive](https://typeractive.xyz/).
 
-![Lily58 Wireless](https://raw.githubusercontent.com/PLGuerraDesigns/lily58-zmk-config/master/images/keyboard.jpg)
-
-![Keymap](https://raw.githubusercontent.com/PLGuerraDesigns/lily58-zmk-config/master/images/keymap.png)
-
 ### Resources
 
 - [ZMK Documentation](https://zmk.dev/docs/)
@@ -15,3 +11,11 @@ This is the ZMK configuration for the Nice!Nano Lily58 Wireless keyboard from [T
 - [Online Keymap Editor](https://nickcoutsos.github.io/keymap-editor/)
 
 - [Keymap Visualizer](https://keymap-drawer.streamlit.app/)
+
+### Lily58 Wireless Keyboard
+
+![Lily58 Wireless](https://raw.githubusercontent.com/PLGuerraDesigns/lily58-zmk-config/master/images/keyboard.jpg)
+
+### Keymap
+
+![Keymap](https://raw.githubusercontent.com/PLGuerraDesigns/lily58-zmk-config/master/images/keymap.png)
